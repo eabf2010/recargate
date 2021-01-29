@@ -1,0 +1,7 @@
+{
+  "name": "recarga-facil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
