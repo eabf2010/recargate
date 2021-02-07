@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
+  customColor:any = '#0b395b';
+
   constructor() {}
 
 }

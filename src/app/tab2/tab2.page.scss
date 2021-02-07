@@ -1,0 +1,54 @@
+.text-input {
+    font-size: 70%;
+}
+
+.text-important {
+    color: #24a4ff;
+    font-weight: 600;
+}
+
+.text-money {
+    color: white;
+    font-weight: 600;
+    font-size: 140%;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.background-1 {
+    background-color: aquamarine;
+}
+
+.text-input {
+    font-size: 70%;
+}
+
+.primary-buttom {
+    color: white;
+}
+
+.toolbar {
+    color: azure;
+    background-color: #2484c1;
+}
+
+.padding-toolbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.toolbar-background {
+    inset: 0px;
+    position: absolute;
+    transform: translateZ(0px);
+    border-width: var(--border-width);
+    border-style: var(--border-style);
+    border-color: var(--border-color);
+    background: #0d5c8e;
+    contain: strict;
+    opacity: var(--opacity);
+    z-index: -1;
+    pointer-events: none;
+}
